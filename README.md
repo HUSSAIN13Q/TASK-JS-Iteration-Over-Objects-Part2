@@ -1,6 +1,6 @@
 # JS-Iteration-Over-Objects-Part2
 
-## Instructions
+## Instructionsd
 
 - Fork and clone [this repository](https://github.com/JoinCODED/JS-Iteration-Over-Objects-Part2) to your `Development` folder.
   - ```bash
